@@ -82,9 +82,9 @@ print(TEMPLATES)
 DATABASES = {
     'default': {
          'ENGINE': 'django.contrib.gis.db.backends.postgis',
-         'NAME': '',
-         'USER': '',
-         'PASSWORD': '',
+         'NAME': 'cpwater',
+         'USER': 'waterwatch',
+         'PASSWORD': 'eurotel_81',
          'HOST': 'localhost',
     }
 }
