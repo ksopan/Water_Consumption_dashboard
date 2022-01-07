@@ -1,7 +1,7 @@
 # Project Summary
 This is the geospatioal data visulaization dashboard developed for visualizing the urban water consumption in the city of Durban. The user can select the different map backgrounds, select the counties as well as display the top ten counties by water consumptions. 
 
-
+> `--capt-add=SYS-ADMIN`
 Built with Python-Django, PostGIS satabase, Leaflet, Openstreetmap, JavScript,and Boostrap.
 
 # Getting Started
