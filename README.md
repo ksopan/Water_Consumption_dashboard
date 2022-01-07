@@ -3,7 +3,7 @@ This is the geospatioal data visulaization dashboard developed for visualizing t
 
 Built with 
 
-> `Python-Django, PostGIS satabase, Leaflet, Openstreetmap, JavScript, Boostrap`.
+> `Python-Django, PostGIS satabase, Leaflet, Openstreetmap, JavScript, Boostrap`
 
 # Getting Started
 
@@ -72,3 +72,6 @@ localhost:PORT
 
 
 Following is the demo of the App.
+
+
+![](Demo.gif)
